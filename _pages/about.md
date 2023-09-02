@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a third-year Ph.D. student at Beijing University of Chemical Technology, supervised by Prof. <a herf=''>Fan Zhang</a> and Prof. [Wei Hu](https://scholar.google.com/citations?hl=zh-CN&user=CujOi1kAAAAJ). I am now a visiting student at VLG, Singapore University of Technology and Design, where I have been working with Prof. Jun Liu. My research interests mainly focus on data-efficient learning/generation.
+I am currently a third-year Ph.D. student at Beijing University of Chemical Technology, supervised by Prof. [Fan Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CujOi1kAAAAJ) and Prof. [Wei Hu](http://www.wei-hu.cn). I am now a visiting student at [VLG](https://people.sutd.edu.sg/~jun_liu/), Singapore University of Technology and Design, where I have been working with Prof. [Jun Liu](https://scholar.google.com/citations?user=Q5Ild8UAAAAJ&hl=zh-CN). My research interests mainly focus on data-efficient learning/generation.
 
 
 
@@ -31,16 +31,27 @@ I am currently a third-year Ph.D. student at Beijing University of Chemical Tech
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[MDCS: More Diverse Experts with Consistency Self-distillation for Long-tailed Recognition](https://arxiv.org/abs/2308.09922)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Qihao Zhao**, Chen Jiang, Wei Hu, Fan Zhang, Jun Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/fistyee/MDCS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer ](https://arxiv.org/pdf/2304.12043.pdf)
+
+**Qihao Zhao**, Yangyu Huang, Wei Hu, Fan Zhang, Jun Liu
+
+[**Code**](https://github.com/fistyee/MixPro) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
