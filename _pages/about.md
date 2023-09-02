@@ -17,17 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a third-year Ph.D. student at Beijing University of Chemical Technology, supervised by Prof. <a herf='https://scholar.google.com/citations?hl=zh-CN&user=CujOi1kAAAAJ'>Fan Zhang</a> and Prof. Wei Hu. I am now a visiting student at VLG, Singapore University of Technology and Design, where I have been working with Prof. Jun Liu. My research interests mainly focus on data-efficient learning/generation.
+
+I am currently a third-year Ph.D. student at Beijing University of Chemical Technology, supervised by Prof. <a herf=''>Fan Zhang</a> and Prof. [Wei Hu](https://scholar.google.com/citations?hl=zh-CN&user=CujOi1kAAAAJ). I am now a visiting student at VLG, Singapore University of Technology and Design, where I have been working with Prof. Jun Liu. My research interests mainly focus on data-efficient learning/generation.
 
 
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉 One paper accept to ICCV 2023.
-- *2023.02*: &nbsp;🎉🎉 One paper accept to ICLR 2023.
+- *2023.07*: &nbsp;🎉 One paper accept to ICCV 2023.
+- *2023.02*: &nbsp;🎉 One paper accept to ICLR 2023.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
