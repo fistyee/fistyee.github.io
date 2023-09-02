@@ -28,7 +28,7 @@ I am currently a third-year Ph.D. student at Beijing University of Chemical Tech
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/MDCS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MDCS: More Diverse Experts with Consistency Self-distillation for Long-tailed Recognition](https://arxiv.org/abs/2308.09922)
