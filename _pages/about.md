@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a third-year Ph.D. student at Beijing University of Chemical Technology, supervised by Prof. [Fan Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CujOi1kAAAAJ) and Prof. [Wei Hu](http://www.wei-hu.cn). I am now a visiting student at [VLG](https://people.sutd.edu.sg/~jun_liu/), Singapore University of Technology and Design, where I have been working with Prof. [Jun Liu](https://scholar.google.com/citations?user=Q5Ild8UAAAAJ&hl=zh-CN). My research interests mainly focus on data-efficient learning/generation.
+I am currently a third-year Ph.D. student at Beijing University of Chemical Technology, supervised by Prof. [Fan Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CujOi1kAAAAJ) and Prof. [Wei Hu](http://www.wei-hu.cn). I am currently a visiting student at [VLG](https://people.sutd.edu.sg/~jun_liu/), Singapore University of Technology and Design, where I have been working with Prof. [Jun Liu](https://scholar.google.com/citations?user=Q5Ild8UAAAAJ&hl=zh-CN) since March 2023. My research interests mainly focus on data-efficient learning/generation.
 
 
 
