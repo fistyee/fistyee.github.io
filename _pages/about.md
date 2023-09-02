@@ -36,7 +36,7 @@ I am currently a third-year Ph.D. student at Beijing University of Chemical Tech
 **Qihao Zhao**, Chen Jiang, Wei Hu, Fan Zhang, Jun Liu
 
 [**Code**](https://github.com/fistyee/MDCS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 
 </div>
 </div>
 
@@ -48,7 +48,7 @@ I am currently a third-year Ph.D. student at Beijing University of Chemical Tech
 **Qihao Zhao**, Yangyu Huang, Wei Hu, Fan Zhang, Jun Liu
 
 [**Code**](https://github.com/fistyee/MixPro) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A new SOTA data augmentation method for Vision Transformers.
 </div>
 </div>
 
