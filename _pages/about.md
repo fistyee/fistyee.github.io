@@ -58,9 +58,9 @@ I am currently a third-year Ph.D. student at Beijing University of Chemical Tech
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2023.03 - Now, Singapore University of Technology and Design, Visiting student
-- *2021.09 - Now, Beijing University of Chemical Technology, Ph.D. candidate
-- *2019.09 - 2021.06, Beijing University of Chemical Technology, Master
+- 2023.03 - Now, Singapore University of Technology and Design, Visiting student
+- 2021.09 - Now, Beijing University of Chemical Technology, Ph.D. candidate
+- 2019.09 - 2021.06, Beijing University of Chemical Technology, Master
 
 
 # 💻 Service
