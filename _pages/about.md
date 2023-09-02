@@ -40,7 +40,7 @@ I am currently a third-year Ph.D. student at Beijing University of Chemical Tech
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer ](https://arxiv.org/pdf/2304.12043.pdf)
