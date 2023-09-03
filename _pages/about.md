@@ -51,6 +51,10 @@ I am a Ph.D. candidate at Beijing University of Chemical Technology, supervised 
 </div>
 </div>
 
+[P-DIFF+: Improving Learning Classifier with Noisy Labels by Noisy Negative Learning Loss](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002872)
+Neural Networks
+**Qihao Zhao**,  Wei Hu, Yangyu Huang, Fan Zhang
+
 
 # 📖 Educations
 - 2023.03 - Now, Singapore University of Technology and Design, Visiting student
