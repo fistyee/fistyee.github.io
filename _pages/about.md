@@ -51,9 +51,16 @@ I am a Ph.D. candidate at Beijing University of Chemical Technology, supervised 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/Pdiff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [P-DIFF+: Improving Learning Classifier with Noisy Labels by Noisy Negative Learning Loss](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002872)
-Neural Networks
-**Qihao Zhao**,  Wei Hu, Yangyu Huang, Fan Zhang
+
+**Qihao Zhao**, Wei Hu, Yangyu Huang, Fan Zhang
+[**Code**](https://github.com/fistyee/P-DIFF) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 
 
 # 📖 Educations
