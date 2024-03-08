@@ -35,7 +35,7 @@ I am a Ph.D. candidate at Beijing University of Chemical Technology, supervised 
 
 LTGC: Long-tail Recognition via Generated Content
 
-**Qihao Zhao** *, Yalun Dai*, Hao Li, Wei Hu, Fan Zhang, Jun Liu
+**Qihao Zhao** *, Yalun Dai *, Hao Li, Wei Hu, Fan Zhang, Jun Liu
 
 [**Code**]([https://github.com/fistyee/MDCS](https://github.com/ltgccode/LTGC-Long-Tail-Recognition-via-Leveraging-Generated-Content)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - 
