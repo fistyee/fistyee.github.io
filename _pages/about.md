@@ -35,6 +35,8 @@ I am a Ph.D. candidate at Beijing University of Chemical Technology, supervised 
 
 LTGC: Long-tail Recognition via Generated Content
 
+*A generative and tuning framework leveraging the knowledge of large language models for long-tail recognition.*
+
 **Qihao Zhao** *, Yalun Dai *, Hao Li, Wei Hu, Fan Zhang, Jun Liu
 
 [**Code**]([https://github.com/fistyee/MDCS](https://github.com/ltgccode/LTGC-Long-Tail-Recognition-via-Leveraging-Generated-Content)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -46,6 +48,8 @@ LTGC: Long-tail Recognition via Generated Content
 <div class='paper-box-text' markdown="1">
 
 [MDCS: More Diverse Experts with Consistency Self-distillation for Long-tailed Recognition](https://arxiv.org/abs/2308.09922)
+
+*A long-tail learning method for maximizing expert recognition diversity with minimum model variance.*
 
 **Qihao Zhao**, Chen Jiang, Wei Hu, Fan Zhang, Jun Liu
 
@@ -59,16 +63,37 @@ LTGC: Long-tail Recognition via Generated Content
 
 [MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer ](https://arxiv.org/pdf/2304.12043.pdf)
 
+*A novel data augmentation method designed for ViTs considering global information mixture and label space re-weighting.*
+
 **Qihao Zhao**, Yangyu Huang, Wei Hu, Fan Zhang, Jun Liu
 
 [**Code**](https://github.com/fistyee/MixPro) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-CSVT</div><img src='images/31709890976_.pic.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OHD: An Online Category-aware Framework for Learning with Noisy Labels under Long-Tailed Distribution]([https://www.sciencedirect.com/science/article/abs/pii/S0893608021002872](https://ieeexplore.ieee.org/abstract/document/10271714))
+
+*A novel framework to address the challenge of noisy labels under long-tailed distribution.*
+
+**Qihao Zhao**, Fan Zhang, Wei Hu, Songhe Feng, Jun Liu
+
+
+[**Code**](https://github.com/fistyee/P-DIFF) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/Pdiff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [P-DIFF+: Improving Learning Classifier with Noisy Labels by Noisy Negative Learning Loss](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002872)
+
+*A novel loss function, that mining knowledge from noisy samples to improve the robustness of models.*
 
 **Qihao Zhao**, Wei Hu, Yangyu Huang, Fan Zhang
 
