@@ -23,12 +23,24 @@ I am a Ph.D. candidate at Beijing University of Chemical Technology, supervised 
 
 
 # 🔥 News
+- *2024.02*: &nbsp;🎉 One paper accept to CVPR2024.
 - *2023.09*: &nbsp;🎉 One paper accept to T-CSVT.
 - *2023.09*: &nbsp;🌟 Invited as a reviewer for ICLR2024.
 - *2023.07*: &nbsp;🎉 One paper accept to ICCV 2023.
-- *2023.02*: &nbsp;🎉 One paper accept to ICLR 2023.
 
-# 📝 Publications 
+# 📝 Publications （* Equal Contribution）
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/WeChat369cfcf657ab0bf26f96218b49ad3669.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+LTGC: Long-tail Recognition via Generated Content
+
+**Qihao Zhao** *, Yalun Dai*, Hao Li, Wei Hu, Fan Zhang, Jun Liu
+
+[**Code**]([https://github.com/fistyee/MDCS](https://github.com/ltgccode/LTGC-Long-Tail-Recognition-via-Leveraging-Generated-Content)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/MDCS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
