@@ -33,7 +33,7 @@ I am a Ph.D. candidate at Beijing University of Chemical Technology, supervised 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/WeChat369cfcf657ab0bf26f96218b49ad3669.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-LTGC: Long-tail Recognition via Generated Content
+[LTGC: Long-tail Recognition via Leveraging LLMs-driven Generated Content](https://arxiv.org/pdf/2403.05854.pdf)
 
 *A generative and tuning framework leveraging the knowledge of large language models for long-tail recognition.*
 
@@ -76,7 +76,7 @@ LTGC: Long-tail Recognition via Generated Content
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-CSVT</div><img src='images/31709890976_.pic.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OHD: An Online Category-aware Framework for Learning with Noisy Labels under Long-Tailed Distribution]([https://www.sciencedirect.com/science/article/abs/pii/S0893608021002872](https://ieeexplore.ieee.org/abstract/document/10271714))
+[OHD: An Online Category-aware Framework for Learning with Noisy Labels under Long-Tailed Distribution]([[https://www.sciencedirect.com/science/article/abs/pii/S0893608021002872](https://ieeexplore.ieee.org/abstract/document/10271714)](https://ieeexplore.ieee.org/abstract/document/10271714?casa_token=SV0CD2xVAm8AAAAA:SRTZfsDN6SQthKyIZF8tn5lGaM7yt8N7Xn7_JMJGOaWdBuGuvqo-mfMeNf6UIjBewXP27o-0E4gj1HY))
 
 *A novel framework to address the challenge of noisy labels under long-tailed distribution.*
 
