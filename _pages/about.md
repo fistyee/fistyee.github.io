@@ -76,7 +76,7 @@ I am a Ph.D. candidate at Beijing University of Chemical Technology, supervised 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-CSVT</div><img src='images/31709890976_.pic.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OHD: An Online Category-aware Framework for Learning with Noisy Labels under Long-Tailed Distribution]([[https://www.sciencedirect.com/science/article/abs/pii/S0893608021002872](https://ieeexplore.ieee.org/abstract/document/10271714)](https://ieeexplore.ieee.org/abstract/document/10271714?casa_token=SV0CD2xVAm8AAAAA:SRTZfsDN6SQthKyIZF8tn5lGaM7yt8N7Xn7_JMJGOaWdBuGuvqo-mfMeNf6UIjBewXP27o-0E4gj1HY))
+[OHD: An Online Category-aware Framework for Learning with Noisy Labels under Long-Tailed Distribution](https://ieeexplore.ieee.org/abstract/document/10271714)
 
 *A novel framework to address the challenge of noisy labels under long-tailed distribution.*
 
