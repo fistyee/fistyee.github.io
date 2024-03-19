@@ -61,7 +61,7 @@ I am a Ph.D. candidate at Beijing University of Chemical Technology, supervised 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/fig.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer ](https://arxiv.org/pdf/2304.12043.pdf)
+[MixPro: Data Augmentation with MaskMix and Progressive Attention Labeling for Vision Transformer ]([https://arxiv.org/pdf/2304.12043.pdf](https://openreview.net/pdf?id=dRjWsd3gwsm))
 
 *A novel data augmentation method designed for ViTs considering global information mixture and label space re-weighting.*
 
