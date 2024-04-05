@@ -23,7 +23,7 @@ I am a Ph.D. candidate at Beijing University of Chemical Technology, supervised 
 
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉 LTGC is selected for oral presentation at CVPR 2024.
+- *2024.04*: &nbsp;🎉 LTGC is selected for oral presentation at CVPR 2024 (Oral).
 - *2024.02*: &nbsp;🎉 One paper accept to CVPR 2024.
 - *2023.09*: &nbsp;🎉 One paper accept to T-CSVT.
 - *2023.09*: &nbsp;🌟 Invited as a reviewer for ICLR 2024.
