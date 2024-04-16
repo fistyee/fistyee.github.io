@@ -23,7 +23,7 @@ I am a Ph.D. candidate at Beijing University of Chemical Technology, supervised 
 
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉 LTGC is selected for oral presentation at CVPR 2024 (3.3%).
+- *2024.04*: &nbsp;🏅 LTGC is selected for oral presentation at CVPR 2024 (Oral Paper Rate: 0.78% (90/11532), Acceptance Rate: 23.6% (2719/11532)).
 - *2024.02*: &nbsp;🎉 One paper accept to CVPR 2024.
 - *2023.09*: &nbsp;🎉 One paper accept to T-CSVT.
 - *2023.09*: &nbsp;🌟 Invited as a reviewer for ICLR 2024.
@@ -34,7 +34,7 @@ I am a Ph.D. candidate at Beijing University of Chemical Technology, supervised 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/WeChat369cfcf657ab0bf26f96218b49ad3669.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LTGC: Long-tail Recognition via Leveraging LLMs-driven Generated Content (**Oral, 3.3%**)](https://arxiv.org/pdf/2403.05854.pdf)
+[LTGC: Long-tail Recognition via Leveraging LLMs-driven Generated Content (**Oral**)](https://arxiv.org/pdf/2403.05854.pdf)
 
 *A generative and tuning framework leveraging the knowledge of large language models for long-tail recognition.*
 
