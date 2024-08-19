@@ -23,6 +23,7 @@ I am a Ph.D. candidate at Beijing University of Chemical Technology, supervised 
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉 One paper accept to ECCV 2024, Oral.
 - *2024.04*: &nbsp;🏅 LTGC is selected for oral presentation at CVPR 2024 (Oral Paper Rate: 0.78% (90/11532), Acceptance Rate: 23.6% (2719/11532)).
 - *2024.02*: &nbsp;🎉 One paper accept to CVPR 2024.
 - *2023.09*: &nbsp;🎉 One paper accept to T-CSVT.
@@ -30,6 +31,23 @@ I am a Ph.D. candidate at Beijing University of Chemical Technology, supervised 
 - *2023.07*: &nbsp;🎉 One paper accept to ICCV 2023.
 
 # 📝 Publications （* Equal Contribution）
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/ECCV2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LTRL: Boosting Long-tail Recognition via Reflective Learning (**Oral**)](https://arxiv.org/abs/2407.12568)
+
+*Reflective Learning, a plug-and-play method, boosts long-tail recognition by mimicking human thinking.*
+
+**Qihao Zhao** *, Yalun Dai *, Shen Lin, Wei Hu, Fan Zhang, Jun Liu
+
+- 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/MDCS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/WeChat369cfcf657ab0bf26f96218b49ad3669.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
