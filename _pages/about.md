@@ -28,7 +28,6 @@ I am a Ph.D. candidate at Beijing University of Chemical Technology, supervised 
 - *2024.02*: &nbsp;🎉 One paper accept to CVPR 2024.
 - *2023.09*: &nbsp;🎉 One paper accept to T-CSVT.
 - *2023.09*: &nbsp;🌟 Invited as a reviewer for ICLR 2024.
-- *2023.07*: &nbsp;🎉 One paper accept to ICCV 2023.
 
 # 📝 Publications （* Equal Contribution）
 
