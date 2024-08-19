@@ -44,10 +44,6 @@ I am a Ph.D. candidate at Beijing University of Chemical Technology, supervised 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/MDCS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/WeChat369cfcf657ab0bf26f96218b49ad3669.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
