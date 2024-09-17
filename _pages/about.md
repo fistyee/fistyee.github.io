@@ -23,7 +23,7 @@ I am a Ph.D. candidate at Beijing University of Chemical Technology, supervised 
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉 One paper accept to ECCV 2024, Oral.
+- *2024.07*: &nbsp;🎉 One paper accept to ECCV 2024, Oral (Oral Paper Rate: 2.1% (188/8585).
 - *2024.04*: &nbsp;🏅 LTGC is selected for oral presentation at CVPR 2024 (Oral Paper Rate: 0.78% (90/11532), Acceptance Rate: 23.6% (2719/11532)).
 - *2024.02*: &nbsp;🎉 One paper accept to CVPR 2024.
 - *2023.09*: &nbsp;🎉 One paper accept to T-CSVT.
