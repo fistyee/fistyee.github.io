@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a Ph.D. candidate at Beijing University of Chemical Technology, supervised by Prof. [Fan Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CujOi1kAAAAJ) and Prof. [Wei Hu](http://www.wei-hu.cn). I am also a visiting student at VLG, Singapore University of Technology and Design, where I have had a wonderful time and have been working with Prof. [Jun Liu](https://scholar.google.com/citations?user=Q5Ild8UAAAAJ&hl=zh-CN) since March 2023. I am currently a research intern at Microsoft Research Asia, collaborating with [Yangyu Huang](https://scholar.google.com/citations?user=ycNodL0AAAAJ&hl=zh-CN). My research interests mainly focus on data-efficient learning/generation, large multimodal learning, AIGC.
+I am a Ph.D. from Beijing University of Chemical Technology, supervised by Prof. [Fan Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CujOi1kAAAAJ) and Prof. [Wei Hu](http://www.wei-hu.cn). I am also a visiting student at VLG, Singapore University of Technology and Design, where I have had a wonderful time and have been working with Prof. [Jun Liu](https://scholar.google.com/citations?user=Q5Ild8UAAAAJ&hl=zh-CN) since March 2023. I am currently a research assistant at Microsoft Research Asia, collaborating with [Yangyu Huang](https://scholar.google.com/citations?user=ycNodL0AAAAJ&hl=zh-CN). My research interests mainly focus on data-efficient learning/generation, large multi-modal models, AIGC.
 
 
 
@@ -119,7 +119,7 @@ I am a Ph.D. candidate at Beijing University of Chemical Technology, supervised 
 
 # 📖 Educations
 - 2023.03 - 2024.03, Singapore University of Technology and Design, Visiting student.
-- 2021.09 - Now, Beijing University of Chemical Technology, Ph.D.
+- 2021.09 - 2024.06, Beijing University of Chemical Technology, Ph.D.
 - 2019.09 - 2021.06, Beijing University of Chemical Technology, Master.
 
 
