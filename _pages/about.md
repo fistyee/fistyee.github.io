@@ -31,10 +31,10 @@ I am a Ph.D. from Beijing University of Chemical Technology, supervised by Prof.
 
 # 📝 Publications （* Equal Contribution）
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/ECCV2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024, Oral</div><img src='images/ECCV2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LTRL: Boosting Long-tail Recognition via Reflective Learning (**Oral**)](https://arxiv.org/abs/2407.12568)
+[LTRL: Boosting Long-tail Recognition via Reflective Learning](https://arxiv.org/abs/2407.12568)
 
 *Reflective Learning, a plug-and-play method, boosts long-tail recognition by mimicking human thinking.*
 
@@ -44,10 +44,10 @@ I am a Ph.D. from Beijing University of Chemical Technology, supervised by Prof.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/WeChat369cfcf657ab0bf26f96218b49ad3669.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024, Oral</div><img src='images/WeChat369cfcf657ab0bf26f96218b49ad3669.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LTGC: Long-tail Recognition via Leveraging LLMs-driven Generated Content (**Oral**)](https://arxiv.org/pdf/2403.05854.pdf)
+[LTGC: Long-tail Recognition via Leveraging LLMs-driven Generated Content](https://arxiv.org/pdf/2403.05854.pdf)
 
 *A generative and tuning framework leveraging the knowledge of large language models for long-tail recognition.*
 
