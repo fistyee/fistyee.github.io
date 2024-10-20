@@ -124,7 +124,7 @@ My research interests mainly focus on Visual Perception and Learning in the Open
 
 # 💻 Service
 - Co-suprivised Students:
-  [Yalun Dai](https://scholar.google.com/citations?user=6XyNVowAAAAJ&hl=zh-CN) (CVPR x 1, ECCV x 1, From BUCT, Now at NTU)
-  [Chen Jiang](https://scholar.google.com/citations?hl=zh-CN&user=scqMvgEAAAAJ) (ICCV x 1,From BUCT, Now at McGill University)
+  - [Yalun Dai](https://scholar.google.com/citations?user=6XyNVowAAAAJ&hl=zh-CN) (CVPR x 1, ECCV x 1, From BUCT, Now at NTU)
+  - [Chen Jiang](https://scholar.google.com/citations?hl=zh-CN&user=scqMvgEAAAAJ) (ICCV x 1,From BUCT, Now at McGill University)
   
 - Reviewer: NeurIPS, ICLR, T-CSVT
