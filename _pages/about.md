@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a Ph.D. from Beijing University of Chemical Technology, supervised by Prof. [Fan Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CujOi1kAAAAJ) and Prof. [Wei Hu](http://www.wei-hu.cn). I am also a visiting student at VLG, Singapore University of Technology and Design, where I have had a wonderful time and have been working with Prof. [Jun Liu](https://scholar.google.com/citations?user=Q5Ild8UAAAAJ&hl=zh-CN) since March 2023. I am currently a research assistant at Microsoft Research Asia, collaborating with [Yangyu Huang](https://scholar.google.com/citations?user=ycNodL0AAAAJ&hl=zh-CN). My research interests mainly focus on data-efficient learning/generation, large multi-modal models, AIGC.
+I am a Ph.D. from Beijing University of Chemical Technology, supervised by Prof. [Fan Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CujOi1kAAAAJ) and Prof. [Wei Hu](http://www.wei-hu.cn). I am also a visiting student at VLG, Singapore University of Technology and Design, where I have had a wonderful time and have been working with Prof. [Jun Liu](https://scholar.google.com/citations?user=Q5Ild8UAAAAJ&hl=zh-CN) since March 2023. I am currently a research assistant at Microsoft Research Asia, collaborating with [Yangyu Huang](https://scholar.google.com/citations?user=ycNodL0AAAAJ&hl=zh-CN). 
+My research interests mainly focus on Visual Perception and Learning in the Open World, Large Multi-modal Models, AIGC.
 
 
 
@@ -26,8 +27,6 @@ I am a Ph.D. from Beijing University of Chemical Technology, supervised by Prof.
 - *2024.07*: &nbsp;🎉 One paper accept to ECCV 2024, Oral (Oral Paper Rate: 2.1% (188/8585).
 - *2024.04*: &nbsp;🏅 LTGC is selected for oral presentation at CVPR 2024 (Oral Paper Rate: 0.78% (90/11532), Acceptance Rate: 23.6% (2719/11532)).
 - *2024.02*: &nbsp;🎉 One paper accept to CVPR 2024.
-- *2023.09*: &nbsp;🎉 One paper accept to T-CSVT.
-- *2023.09*: &nbsp;🌟 Invited as a reviewer for ICLR 2024.
 
 # 📝 Publications （* Equal Contribution）
 
@@ -118,10 +117,14 @@ I am a Ph.D. from Beijing University of Chemical Technology, supervised by Prof.
 
 
 # 📖 Educations
-- 2023.03 - 2024.03, Singapore University of Technology and Design, Visiting student.
+- 2023.03 - 2024.03, Singapore University of Technology and Design, Visiting Student.
 - 2021.09 - 2024.06, Beijing University of Chemical Technology, Ph.D.
 - 2019.09 - 2021.06, Beijing University of Chemical Technology, Master.
 
 
 # 💻 Service
+- Co-suprivised Students:
+  [Yalun Dai](https://scholar.google.com/citations?user=6XyNVowAAAAJ&hl=zh-CN) (CVPR x 1, ECCV x 1, From BUCT, Now at NTU)
+  [Chen Jiang](https://scholar.google.com/citations?hl=zh-CN&user=scqMvgEAAAAJ) (ICCV x 1,From BUCT, Now at McGill University)
+  
 - Reviewer: NeurIPS, ICLR, T-CSVT
