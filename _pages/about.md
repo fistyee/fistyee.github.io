@@ -28,6 +28,16 @@ My research interests mainly focus on Visual Perception and Learning in the Open
 - *2024.04*: &nbsp;🏅 LTGC is selected for oral presentation at CVPR 2024 (Oral Paper Rate: 0.78% (90/11532), Acceptance Rate: 23.6% (2719/11532)).
 - *2024.02*: &nbsp;🎉 One paper accept to CVPR 2024.
 
+
+# 📖 Experiences
+- 2024.06 - 2024.12, Microsoft Research Asia, Research Associate
+  - Topic: Large Language Models, AIGC for science
+- 2023.03 - 2024.03, Singapore University of Technology and Design, Visiting Student.
+  - Topic: Long-Tail Learning with LLMs
+- 2019.09 - 2024.06, Beijing University of Chemical Technology, joint Master’s and Ph.D. program
+  - Topic: Image Recongnition in the Open World
+  
+
 # 📝 Publications （* Equal Contribution）
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/ECCV2024.png' alt="sym" width="100%"></div></div>
@@ -120,10 +130,7 @@ My research interests mainly focus on Visual Perception and Learning in the Open
 
 
 
-# 📖 Educations
-- 2023.03 - 2024.03, Singapore University of Technology and Design, Visiting Student.
-- 2021.09 - 2024.06, Beijing University of Chemical Technology, Ph.D.
-- 2019.09 - 2021.06, Beijing University of Chemical Technology, Master.
+
 
 
 # 💻 Service
