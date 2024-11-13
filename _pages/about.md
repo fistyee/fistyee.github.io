@@ -30,8 +30,7 @@ My research interests mainly focus on Visual Perception and Learning in the Open
 
 
 # 📖 Experiences
-- 2024.06 - 2024.12, Microsoft Research Asia, Research Associate
-  - Topic: Large Language Models, AIGC for Science
+
 - 2023.03 - 2024.03, Singapore University of Technology and Design, Visiting Student.
   - Topic: Long-Tail Learning with LLMs
 - 2019.09 - 2024.06, Beijing University of Chemical Technology, Joint Master’s and Ph.D.
