@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qihao Zhao"
   avatar           : "images/1451693749289_.pic_hd.jpg"
-  bio              : "Beijing University of Chemical Technology"
+  bio              : "Microsoft Research"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=sECb19EAAAAJ&hl=zh-CN&oi=ao"
-  email            : "zhaoqh@buct.edu.com"
+  email            : "qhzhaoo@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
