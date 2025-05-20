@@ -51,7 +51,7 @@ My research interests primarily lie in Large Multimodal Models, AI Agents, and V
 [MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark](https://arxiv.org/abs/2412.15194)
 
 
-*MMLU-CF is a contamination-free and more challenging multiple-choice question benchmark. *
+*MMLU-CF is a contamination-free and more challenging multiple-choice question benchmark.*
 
 **Qihao Zhao**, Yangyu Huang, Tengchao Lv, Lei Cui, Qinzheng Sun, Shaoguang Mao, Xin Zhang, Ying Xin, Qiufeng Yin, Scarlett Li, Furu Wei
 
