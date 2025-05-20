@@ -27,9 +27,10 @@ My research interests primarily lie in Large Multimodal Models, AI Agents, and V
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉 MMLU_CF accept to ACL 2025 main conference. 
 - *2025.02*: &nbsp;🎉 One paper accept to CVPR 2025. 
-- *2025.01*: &nbsp;🎉 One paper accept to ICLR 2025, see you at Singapore.
-- *2024.07*: &nbsp;🎉 One paper accept to ECCV 2024, Oral (Oral Paper Rate: 2.1% (188/8585).
+- *2025.01*: &nbsp;🎉 GaussianBlock accept to ICLR 2025, see you at Singapore.
+- *2024.07*: &nbsp;🎉 LTRL accept to ECCV 2024, Oral (Oral Paper Rate: 2.1% (188/8585).
 - *2024.04*: &nbsp;🏅 LTGC is selected for oral presentation at CVPR 2024 (Oral Paper Rate: 0.78% (90/11532), Acceptance Rate: 23.6% (2719/11532)).
 
 
@@ -43,6 +44,35 @@ My research interests primarily lie in Large Multimodal Models, AI Agents, and V
 
 
 # 📝 Publications （* Equal Contribution）
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/mmlu_cf.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark](https://arxiv.org/abs/2412.15194)
+
+
+*MMLU-CF is a contamination-free and more challenging multiple-choice question benchmark. *
+
+**Qihao Zhao**, Yangyu Huang, Tengchao Lv, Lei Cui, Qinzheng Sun, Shaoguang Mao, Xin Zhang, Ying Xin, Qiufeng Yin, Scarlett Li, Furu Wei
+
+[**Dataset**](https://huggingface.co/datasets/microsoft/MMLU-CF)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/Block.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians
+]([https://arxiv.org/abs/2412.15194](https://arxiv.org/abs/2410.01535))
+
+
+*GaussianBlock introduces a hybrid representation that leverages the advantages of both primitives, known for their flexible actionability and editability, and 3D Gaussians, which excel in reconstruction quality.*
+
+Shuyi Jiang, **Qihao Zhao**, Hossein Rahmani, De Wen Soh, Jun Liu, Na Zhao
+
+[**Code**](https://github.com/Jiangshuyi0V0/GaussianBlock)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/ECCV2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
