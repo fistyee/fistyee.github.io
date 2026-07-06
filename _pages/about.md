@@ -36,7 +36,7 @@ Human Robot Interaction, 3D understanding, [Research AI co-author](https://githu
 # 📝 Publications （* Equal Contribution）
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"Preprint</div><img src='images/ideaspark_thumb.gif' alt="sym" width="100%"> </div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ideaspark_thumb.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes
