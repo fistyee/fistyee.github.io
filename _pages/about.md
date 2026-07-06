@@ -18,32 +18,36 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am currently a Postdoctoral Researcher at the Singapore University of Technology and Design (SUTD), where I collaborate with Prof. [Immanuel Koh](https://www.linkedin.com/in/immanuelkoh/). I received my Ph.D. from Beijing University of Chemical Technology, under the supervision of Prof. [Fan Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CujOi1kAAAAJ) and Prof. [Wei Hu](http://www.wei-hu.cn).
+I am currently a Research Fellow at the Nanyang Technological University (NTU), where I collaborate with Prof. [Yap Kim Hui](https://dr.ntu.edu.sg/entities/person/Yap-Kim-Hui). I received my Ph.D. from Beijing University of Chemical Technology, under the supervision of Prof. [Fan Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CujOi1kAAAAJ) and Prof. [Wei Hu](http://www.wei-hu.cn).
 
 Also, I was a visiting student at the Vision and Learning Group (VLG) at SUTD, where I had a wonderful and productive experience working with Prof. [Jun Liu](https://scholar.google.com/citations?user=Q5Ild8UAAAAJ&hl=zh-CN) since March 2023. Following that, I conducted research at Microsoft Research Asia, collaborating with [Yangyu Huang](https://scholar.google.com/citations?user=ycNodL0AAAAJ&hl=zh-CN).
 
-My research interests primarily lie in Large Multimodal Models, AI Agents, and Visual Perception and Reasoning in Open-world.
-
+My research interests:
+Human Robot Interaction, 3D understanding, [Research AI co-author](https://github.com/microsoft/ResearchStudio) and [AI Music understanding](https://dawnote.app/), data-effenciency learning.
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉 [ResearchStudio](https://github.com/microsoft/ResearchStudio) is release.
 - *2025.05*: &nbsp;🎉 MMLU_CF accept to ACL 2025 main conference. 
-- *2025.02*: &nbsp;🎉 One paper accept to CVPR 2025. 
-- *2025.01*: &nbsp;🎉 GaussianBlock accept to ICLR 2025, see you at Singapore.
 - *2024.07*: &nbsp;🎉 LTRL accept to ECCV 2024, Oral (Oral Paper Rate: 2.1% (188/8585).
 - *2024.04*: &nbsp;🏅 LTGC is selected for oral presentation at CVPR 2024 (Oral Paper Rate: 0.78% (90/11532), Acceptance Rate: 23.6% (2719/11532)).
 
 
-# 📖 Experiences
-- 2024.06 - 2025.01, MSRA
-  - Topic: Contamination-free LLMs Benchmark
-- 2023.03 - 2024.03, Singapore University of Technology and Design, Visiting Student.
-  - Topic: Long-Tail Recognition with LLMs
-- 2019.09 - 2024.06, Beijing University of Chemical Technology, Joint Master’s and Ph.D.
-  - Topic: Visual Recognition in the Open World
-
-
 # 📝 Publications （* Equal Contribution）
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"Preprint</div><img src='images/ideaspark_thumb.gif' alt="sym" width="100%"> </div></div>
+<div class='paper-box-text' markdown="1">
+
+ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes
+
+Qihao Zhao, Yangyu Huang, Yalun Dai Lingao Xiao Jianjun Gao, Xin Zhang, Wenshan Wu, Scarlett Li, Yang He, Yan Lu, Yap Kim Hui
+
+[**Project**](https://microsoft.github.io/ResearchStudio/)
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/mmlu_cf.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -134,37 +138,17 @@ Shuyi Jiang, **Qihao Zhao**, Hossein Rahmani, De Wen Soh, Jun Liu, Na Zhao
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-CSVT</div><img src='images/31709890976_.pic.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[OHD: An Online Category-aware Framework for Learning with Noisy Labels under Long-Tailed Distribution](https://ieeexplore.ieee.org/abstract/document/10271714)
-
-*A novel framework to address the challenge of noisy labels under long-tailed distribution.*
-
-**Qihao Zhao**, Fan Zhang, Wei Hu, Songhe Feng, Jun Liu
-
-
-[**Code**](https://github.com/fistyee/P-DIFF) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/Pdiff.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[P-DIFF+: Improving Learning Classifier with Noisy Labels by Noisy Negative Learning Loss](https://www.sciencedirect.com/science/article/abs/pii/S0893608021002872)
-
-*A novel loss function, that mining knowledge from noisy samples to improve the robustness of models.*
-
-**Qihao Zhao**, Wei Hu, Yangyu Huang, Fan Zhang
-
-[**Code**](https://github.com/fistyee/P-DIFF) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-
-
-
+# 📖 Experiences
+- 2025.10 - Now, Nanyang Technological University, Research Fellow
+  - Topic, Human Robot Interaction, Research AI co-author
+- 2025.01 - 2025.10, Singapore University of Technology and Design, Research Fellow
+  - Topic, AI for Building Design
+- 2024.06 - 2025.01, MSRA
+  - Topic: Contamination-free LLMs Benchmark
+- 2023.03 - 2024.03, Singapore University of Technology and Design, Visiting Student.
+  - Topic: Long-Tail Recognition with LLMs
+- 2019.09 - 2024.06, Beijing University of Chemical Technology, Joint Master’s and Ph.D.
+  - Topic: Visual Recognition in the Open World
 
 # 💻 Service
 - Co-suprivised Students:
